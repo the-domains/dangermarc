@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Danger Marc]]></title>
+        <description><![CDATA[Danger Marc]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 11 Jun 2016 06:49:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[$cumBank$ by Danger Marc]]></title>
+            <description><![CDATA[<article><h1>$cumBank$ by Danger Marc</h1><p>Listen to $cumBank$ by Danger Marc #np on #SoundCloud</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6999692d76f5cb673e3573b28c479bc9c71c72af.jpg"></article>]]></description>
+            <link>https://soundcloud.com/dangermarctunes/scumbanks</link>
+            <guid isPermaLink="false">bf198fb8-6d4e-4381-bdf9-24ec52cd9f06</guid>
+            <pubDate>Sat, 11 Jun 2016 06:49:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
