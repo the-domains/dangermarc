@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#F7D600'
+    - '#F80000'
+    - '#5B7F27'
+    - '#131402'
+    - '#B4A30F'
+  brandStrength: 0.679899
+  lightness: 0.751169
+  rhythmicContrast: 0.5
+  saturation: 0.494088
+cta: {}
+layout_spectrum: 0.380068
+name: dangermarc
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.209459
